@@ -1,0 +1,1 @@
+StrDict = dict[str, str]
